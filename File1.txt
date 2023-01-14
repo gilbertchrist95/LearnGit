@@ -7,6 +7,7 @@ function parse_git_branch() {
 
 
 tambahhhhhhhh
+asdasdasdadada
 
 
 setopt PROMPT_SUBST

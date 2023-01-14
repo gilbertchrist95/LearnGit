@@ -13,6 +13,9 @@ Ini aku tambahin
 lalalallalal
 luljljlululul
 
+edit lululu
+
+
 
 
 setopt PROMPT_SUBST

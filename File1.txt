@@ -8,6 +8,11 @@ function parse_git_branch() {
 
 tambahhhhhhhh
 asdasdasdadada
+Ini aku tambahin
+
+lalalallalal
+luljljlululul
+
 
 
 setopt PROMPT_SUBST
